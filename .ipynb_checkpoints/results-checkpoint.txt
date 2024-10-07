@@ -1,0 +1,4 @@
+Two smallest values in list1: (1, 2)
+Two smallest values in list2: (12, 43)
+Two smallest values in list3: (4, 10)
+Two smallest values in list4: (-10, -4)
